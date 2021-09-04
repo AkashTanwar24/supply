@@ -42,6 +42,6 @@ app.listen(port,function (err) {
     if(err){
         console.log("error",err)
     }
-    console.log("server is up and running;",port)
+    console.log("server is up and good;",port)
     
 });
